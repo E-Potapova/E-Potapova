@@ -1,7 +1,7 @@
 # Come back soon!
 *This document is a work in progress. I'll be done very soon!*
 
-Hi, I'm Liz!
+# Hi, I'm Liz!
 I’m a Computer Science junior at Binghamton University. Here are some cool projects I’ve made.
 
 [Video Games](#video-games) <br/>
@@ -11,42 +11,42 @@ I’m a Computer Science junior at Binghamton University. Here are some cool pro
 [Written Work](#written-work) <br/>
 
 ## Video Games
-### Little Trouble
+### Little Trouble [:top:](#hi,-I'm-Liz)
 game jam 
 <br/>[See more.](Little%20Trouble/)
 
-### Definitely Not Asteroids
+### Definitely Not Asteroids [:top:](#hi,-I'm-Liz)
 screenshots + video
 <br/>[See more.](Definitely%20Not%20Asteroids/)
 
-### I Can't Believe It's Not Breakout
+### I Can't Believe It's Not Breakout [:top:](#hi,-I'm-Liz)
 screenshots + video
 <br/>[See more.](I%20Can't%20Believe%20It's%20Not%20Breakout/)
 
 ## Websites
-### Rock Climbing Application
+### Rock Climbing Application [:top:](#hi,-I'm-Liz)
 internship site
 <br/>[See more.](Internship%20Site/)
 
 ## Data Structures
-### Basketball Player Manager
+### Basketball Player Manager [:top:](#hi,-I'm-Liz)
 specifications
 <br/>[See more.](Player%20Manager/)
 
-### Integer Set
+### Integer Set [:top:](#hi,-I'm-Liz)
 properties of a set
 <br/>[See more.](Integer%20Set/)
 
 ## Computer Architecture
-### Cache Simulator
+### Cache Simulator [:top:](#hi,-I'm-Liz)
 wow
 <br/>[See more.](Cache%20Simulator/)
 
 ## Written Work
-### Research Report
+### Research Report [:top:](#hi,-I'm-Liz)
 pdf link?
-<br/>[View full report :arrow_upper_right:](https://docs.google.com/viewer?url=https://github.com/E-Potapova/E-Potapova/raw/main/Written%20Work/Research%20Report.pdf)
+<br/>[View full report.](https://docs.google.com/viewer?url=https://github.com/E-Potapova/E-Potapova/raw/main/Written%20Work/Research%20Report.pdf)
 
-### Google DeepMind vs. IBM Watson for Oncology
+### Google DeepMind vs. IBM Watson for Oncology [:top:](#hi,-I'm-Liz)
 find file
-<br/>[View full paper :arrow_upper_right:](https://docs.google.com/viewer?url=https://github.com/E-Potapova/E-Potapova/raw/main/Written%20Work/Google%20DeepMind%20vs.%20IBM%20Watson%20for%20Oncology.pdf)
+<br/>[View full paper.](https://docs.google.com/viewer?url=https://github.com/E-Potapova/E-Potapova/raw/main/Written%20Work/Google%20DeepMind%20vs.%20IBM%20Watson%20for%20Oncology.pdf)
