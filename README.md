@@ -15,11 +15,11 @@ screenshots + video
 screenshots + video
 
 ## Websites
-### Radical Rocky Routes
+### Rock Climbing Application
 internship site
 
 ## Data Structures
-### Basketball Player Manager
+### Sports Player Manager
 specifications
 
 ### Integer Set
