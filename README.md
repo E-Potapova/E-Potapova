@@ -13,6 +13,7 @@ I’m a Computer Science junior at Binghamton University. Here are some cool pro
 ## Video Games
 ### Little Trouble
 game jam
+[a relative link](Little%20Trouble/)
 
 ### Definitely Not Asteroids
 screenshots + video
