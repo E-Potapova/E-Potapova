@@ -45,8 +45,8 @@ wow
 ## Written Work
 ### Research Report
 pdf link?
-<br/>[View full report.](Written%20Work/)
+<br/>[View full report :arrow_upper_right:](https://docs.google.com/viewer?url=https://github.com/E-Potapova/E-Potapova/raw/main/Written%20Work/Research%20Report.pdf)
 
 ### Google DeepMind vs. IBM Watson for Oncology
 find file
-<br/>[View full paper.](Written%20Work/)
+<br/>[View full paper :arrow_upper_right:](https://docs.google.com/viewer?url=https://github.com/E-Potapova/E-Potapova/raw/main/Written%20Work/Google%20DeepMind%20vs.%20IBM%20Watson%20for%20Oncology.pdf)
