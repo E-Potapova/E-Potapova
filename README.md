@@ -1,8 +1,14 @@
 # Come back soon!
-This document is a work in progress. I'll be done very soon!
+*This document is a work in progress. I'll be done very soon!*
 
 Hi, I'm Liz!
-I’m a Computer Science student at Binghamton University. Here are some cool projects I’ve made.
+I’m a Computer Science junior at Binghamton University. Here are some cool projects I’ve made.
+
+[Video Games](#video-games) <br/>
+[Websites](#websites) <br/>
+[Data Structures](#data-structures) <br/>
+[Computer Architecture](#computer-architecture) <br/>
+[Written Work](#written-work) <br/>
 
 ## Video Games
 ### Little Trouble
@@ -19,7 +25,7 @@ screenshots + video
 internship site
 
 ## Data Structures
-### Sports Player Manager
+### Basketball Player Manager
 specifications
 
 ### Integer Set
