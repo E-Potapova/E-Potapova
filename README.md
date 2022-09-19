@@ -1,16 +1,37 @@
-# Work in progress . . .
+# Come back soon!
+This document is a work in progress. I'll be done very soon!
 
-<!--
-**E-Potapova/E-Potapova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Liz!
+I’m a Computer Science student at Binghamton University. Here are some cool projects I’ve made.
 
-Here are some ideas to get you started:
+## Video Games
+### Little Trouble
+game jam
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Definitely Not Asteroids
+screenshots + video
+
+### I Can't Believe It's Not Breakout
+screenshots + video
+
+## Websites
+### Radical Rocky Routes
+internship site
+
+## Data Structures
+### Basketball Player Manager
+specifications
+
+### Integer Set
+properties of a set
+
+## Computer Architecture
+### Cache Simulator
+wow
+
+## Written Work
+### Research Report
+pdf link?
+
+### Google DeepMind vs. IBM Watson for Oncology
+find file
