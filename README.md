@@ -12,8 +12,9 @@ I’m a Computer Science junior at Binghamton University. Here are some cool pro
 
 ## Video Games
 ### Little Trouble [:top:](#hi-im-liz)
-This is a small platformer video game created in Unity (in C#). 
+This is a small platformer video game me and a partner created in Unity (in C#). 
 <br/>It is a 2D metroidvania with original pixel art assets made within a month for the GameOff 2021 game jam.
+<br/> I personally was the project lead and asset developer. I organized responsibilities, set up deadlines, designed ability flavors (i.e. the double jump being a pair of maple tree seeds), designed UI, and created *all* art assets.
 <br/> *screenshots + video here*
 <br/>[Play the game right now!](https://e-potapova.itch.io/little-trouble) 
 <br/> *Might need to zoom out in the browser and then make the game full-screen to see all UI elements.
@@ -58,11 +59,11 @@ For my Computer Architecture II class, I created a simulation for a simple cache
 ### Research Report [:top:](#hi-im-liz)
 For my first three semesters at Binghamton University I was part of the program First-Year Research Immersion. The goal was to provide an introduction to research, for CS students that being specifically on machine learning.
 <br/> Me and 3 peers worked on the project *Integrating Deep Q-Learning with Learning from Demonstration to Solve Atari Games*, which essentially combined two types of machine learning methods to have a computer play Atari's *Breakout*.
-<br/> At the end of the program, I had to write a 5,000 word research report on our project and findings. [You can read the full report here on GitHub.](/Written%20Work/Google%20DeepMind%20vs.%20IBM%20Watson%20for%20Oncology.pdf) <br/>
+<br/> At the end of the program, I had to write a 5,000 word research report on our project and findings. [You can read the full report here on GitHub.](/Written%20Work/Research%20Report.pdf) <br/>
 [Alternate: View full report in Google PDF viewer (might need to click 5 times)](https://docs.google.com/viewer?url=https://github.com/E-Potapova/E-Potapova/raw/main/Written%20Work/Research%20Report.pdf)
 <br/> P.S. We also presented our project in the annual FRI Poster Session.
 ![FRI](Written%20Work/FRI.jpg)
 
 ### Google DeepMind vs. IBM Watson for Oncology [:top:](#hi-im-liz)
-For one of my university courses, I had to compare two algorithms and their impact on society. I chose to compare DeepMind's and IBM Watson's algorithms for identifying breast cancer. [You can read the full paper here on GitHub.](Written%20Work/Research%20Report.pdf)
+For one of my university courses, I had to compare two algorithms and their impact on society. I chose to compare DeepMind's and IBM Watson's algorithms for identifying breast cancer. [You can read the full paper here on GitHub.](/Written%20Work/Google%20DeepMind%20vs.%20IBM%20Watson%20for%20Oncology.pdf)
 <br/>[Alternate: View full paper in Google PDF viewer (might need to click 5 times)](https://docs.google.com/viewer?url=https://github.com/E-Potapova/E-Potapova/raw/main/Written%20Work/Google%20DeepMind%20vs.%20IBM%20Watson%20for%20Oncology.pdf)
