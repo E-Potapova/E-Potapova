@@ -5,7 +5,7 @@ Here is the database design (excluding views) with all foreign keys connected:
 And then screenshots and GIFs of each individual role's capabilities (should be higher quality):
 
  
-Climber:
+Climber: <br/>
  
 ![](media/climber.gif)
  
@@ -13,7 +13,7 @@ Climber:
  
 ![](media/climber_trips.png)
  
-Guide:
+Guide: <br/>
  
 ![](media/guide.gif)
  
@@ -21,7 +21,7 @@ Guide:
  
 ![](media/guide_add.png)
  
-Admin:
+Admin: <br/>
  
 ![](media/admin.gif)
  
