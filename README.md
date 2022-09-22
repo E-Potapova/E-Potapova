@@ -24,12 +24,12 @@ This is a small platformer video game me and a partner created in Unity (in C#).
 A small game in Unity that furthered my knowledge on scenes, object spawning, and event management.
 <br/> The blocks spawn with a chance of providing an effect: giving +1 ball to the player (orange), freezing the paddle (blue), or speeding up all balls x2 (yellow).
 <br/> (This is a very original game not at all related to *Breakout* by Atari.)
-<br/>*screenshots + video*
+<br/>![](I%20Can't%20Believe%20It's%20Not%20Breakout/breakout.gif)
 
 #### Definitely Not Asteroids [:top:](#hi-im-liz)
 The very first game I made in Unity, the game is not pretty but taught me a lot of important things.
 <br/> Oh, and it's *not* at all similar to *Asteroids* by Atari, I have no idea what you're talking about ... 
-<br/>*screenshots + video*
+<br/>![](Definitely%20Not%20Asteroids/asteroids.gf)
 
 ## Applications
 #### Rock Climbing Site [:top:](#hi-im-liz)
