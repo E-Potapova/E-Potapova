@@ -1,6 +1,3 @@
-# Come back soon!
-*This document is a work in progress. I'll be done very soon!*
-
 # Hi, I'm Liz!
 I’m a Computer Science junior at Binghamton University. Here are some cool projects I’ve made.
 
@@ -17,7 +14,7 @@ This is a small platformer video game me and a partner created in Unity (in C#).
 <br/> I personally was the project lead and asset developer. I organized responsibilities, set up deadlines, designed ability flavors (i.e. the double jump being a pair of maple tree seeds), designed UI, and created *all* art assets.
 <br/>[Play the game right now!](https://e-potapova.itch.io/little-trouble) 
 <br/> *Might need to zoom out in the browser and then make the game full-screen to see all UI elements.
-<br/>[See more info and source code](https://github.com/E-Potapova/GameOff2021)
+<br/>[See more info and source code.](https://github.com/E-Potapova/GameOff2021)
 
 #### I Can't Believe It's Not Breakout [:top:](#hi-im-liz)
 A small game in Unity that furthered my knowledge on scenes, object spawning, and event management.
@@ -35,7 +32,7 @@ The very first game I made in Unity, the game is not pretty but taught me a lot 
 For my 2022 summer internship, me and 2 other interns had to develop a simple application within 2 weeks based on a user story. A big focus was proper communication with its database.
 <br/> Our application has three roles: Climber, Guide, and Administrator. Climbers can view routes across the U.S. and request a guide to take them through that route. Guides approve or reject requests and can add new routes to the database. Admins approve additions and have a dashboard with various reports.
 <br/> I personally worked a lot on the 'Climber requests a Guide' aspect, as well as making sure the user experience and UI was at its best.
-[See more info here.](Internship%20Site/)
+[See more info here.](Internship%20Site/) <br/>
 ![](Internship%20Site/media/all_roles.gif)
 
 ## Data Structures
