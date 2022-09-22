@@ -24,12 +24,12 @@ This is a small platformer video game me and a partner created in Unity (in C#).
 A small game in Unity that furthered my knowledge on scenes, object spawning, and event management.
 <br/> The blocks spawn with a chance of providing an effect: giving +1 ball to the player (orange), freezing the paddle (blue), or speeding up all balls x2 (yellow).
 <br/> (This is a very original game not at all related to *Breakout* by Atari.)
-<br/>![](I%20Can't%20Believe%20It's%20Not%20Breakout/breakout.gif)
+<br/>![](breakout.gif)
 
 #### Definitely Not Asteroids [:top:](#hi-im-liz)
 The very first game I made in Unity, the game is not pretty but taught me a lot of important things.
 <br/> Oh, and it's *not* at all similar to *Asteroids* by Atari, I have no idea what you're talking about ... 
-<br/>![](Definitely%20Not%20Asteroids/asteroids.gif)
+<br/>![](asteroids.gif)
 
 ## Applications
 #### Rock Climbing Site [:top:](#hi-im-liz)
@@ -41,19 +41,16 @@ For my 2022 summer internship, me and 2 other interns had to develop a simple ap
 ## Data Structures
 #### Sports Player Manager [:top:](#hi-im-liz)
 As part of my Data Structures course, I had to create custom C++ classes that used *only* dynamic storage (i.e. no arrays or vectors) to create and manage a League of Teams, each of which had unique Players. The program needed to have zero memory leaks.
-[You can view the full requirements, source code, and run the code here.](Player%20Manager/)
-<br/> *screenshots?*
+[See more here.](Player%20Manager/)
 
 #### Integer Set [:top:](#hi-im-liz)
 Created for my Computer Architecure II class, the set for integers was made in C with a focus on proper pointer and memory management. The set was implemented using a linked list and had these requirements: no duplicate items, can add an array of ints to the set, can create a union of two sets, can create an intersection of two sets.
-[You can view the source code here.](Integer%20Set/)
-<br/> *screenshots?*
+[See more.](Integer%20Set/)
 
 ## Computer Architecture
 #### Cache Simulator [:top:](#hi-im-liz)
 For my Computer Architecture II class, I created a simulation for a simple cache in C. Given a memory address, the program masks out bits that specify which line of which set to look in. The simulation returns a hit, miss with no replacement, and miss with replacement; if a replacement is necessary, the code allows for a least-recently-used, most-recently-used, and random replacement strategy. The program had to have no memory leaks.
-[View the source code here.](Cache%20Simulator/)
-<br/> *screenshots??*
+[See more.](Cache%20Simulator/)
 
 ## Written Work
 #### Research Report [:top:](#hi-im-liz)
