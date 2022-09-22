@@ -12,8 +12,9 @@ I’m a Computer Science junior at Binghamton University. Here are some cool pro
 This is a small platformer video game me and a partner created in Unity (in C#). 
 <br/>It is a 2D metroidvania with original pixel art assets made within a month for the GameOff 2021 game jam.
 <br/> I personally was the project lead and asset developer. I organized responsibilities, set up deadlines, designed ability flavors (i.e. the double jump being a pair of maple tree seeds), designed UI, and created *all* art assets.
-<br/>[Play the game right now!](https://e-potapova.itch.io/little-trouble) 
-<br/> *Might need to zoom out in the browser and then make the game full-screen to see all UI elements.
+<br/>
+#### [Play the game right now!](https://e-potapova.itch.io/little-trouble) 
+ *Might need to zoom out in the browser and then make the game full-screen to see all UI elements.
 <br/>[See more info and source code.](https://github.com/E-Potapova/GameOff2021)
 
 #### I Can't Believe It's Not Breakout [:top:](#hi-im-liz)
