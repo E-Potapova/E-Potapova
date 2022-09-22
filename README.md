@@ -29,7 +29,7 @@ A small game in Unity that furthered my knowledge on scenes, object spawning, an
 #### Definitely Not Asteroids [:top:](#hi-im-liz)
 The very first game I made in Unity, the game is not pretty but taught me a lot of important things.
 <br/> Oh, and it's *not* at all similar to *Asteroids* by Atari, I have no idea what you're talking about ... 
-<br/>![](Definitely%20Not%20Asteroids/asteroids.gf)
+<br/>![](Definitely%20Not%20Asteroids/asteroids.gif)
 
 ## Applications
 #### Rock Climbing Site [:top:](#hi-im-liz)
