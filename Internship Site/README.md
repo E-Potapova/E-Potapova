@@ -2,9 +2,8 @@
 Here is the database design (excluding views) with all foreign keys connected:
 ![](media/database.png)
 
-And then screenshots and GIFs of each individual role's capabilities (should be higher quality):
+And then screenshots and GIFs of each individual role's capabilities:
 
- 
 ### Climber: <br/>
  
 ![](media/climber.gif)
