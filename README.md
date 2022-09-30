@@ -16,6 +16,7 @@ This is a small platformer video game me and a partner created in Unity (in C#).
 #### [Play the game right now!](https://e-potapova.itch.io/little-trouble) 
  *Might need to zoom out in the browser and then make the game full-screen to see all UI elements.
 <br/>[See more info and source code.](https://github.com/E-Potapova/GameOff2021)
+<br/>![](little_trouble.gif)
 
 #### I Can't Believe It's Not Breakout [:top:](#hi-im-liz)
 A small game in Unity that furthered my knowledge on scenes, object spawning, and event management.
