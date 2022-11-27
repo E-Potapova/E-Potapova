@@ -1,6 +1,10 @@
 ## Sports Player Manager
 [See full requirements here.](requirements.pdf) <br/>
 
+As part of my Data Structures course, I had to create custom C++ classes that used only dynamic storage (i.e. no arrays or vectors) to create and manage players on sports teams all within a shared league.
+
+Each League holds a number of Teams, and each Team holds a number of Players. Additionally, a League can hold free agents, which are Players that don't belong to a specific Team.
+
 All code in the `source code` folder was created by me, with the exceptions being the `makefile` and `Parser.h` files being a modified version that the professor provided.
 
 `League`, `Team`, and `Player` are custom classes that have the declaration in the header (`.h`) files, and the definition in the C++ (`.cpp`) files. 
