@@ -8,14 +8,21 @@ I’m a Computer Science junior at Binghamton University. Here are some cool pro
 [Written Work](#written-work) <br/>
 
 ## Video Games
+### Curious Cats [:top:](#hi-im-liz)
+A 2D puzzle game me and a partner created in Unity with C#. 
+<br/>It houses original pixel art assets and was made within a month for the GameOff 2022 game jam!
+<br/>My role was the artist and UI programmer. I created all sprites and animations and integrated them into the code properly. I designed the UI, created all sprites for UI elements, and ensured that the interface was easy and satisfying to use. I'm really happy with how it turned out, from the custom cursor to the bouncy buttons!
+<br/> [See more info and source code.](https://github.com/E-Potapova/GameOff2022)
+#### [Play the game right now!](https://e-potapova.itch.io/curious-cats) 
+
+
 #### Little Trouble [:top:](#hi-im-liz)
 This is a small platformer video game me and a partner created in Unity (in C#). 
 <br/>It is a 2D metroidvania with original pixel art assets made within a month for the GameOff 2021 game jam.
 <br/> I personally was the project lead and asset developer. I organized responsibilities, set up deadlines, designed ability flavors (i.e. the double jump being a pair of maple tree seeds), designed UI, and created *all* art assets.
-<br/>
+<br/> [See more info and source code.](https://github.com/E-Potapova/GameOff2021)
 #### [Play the game right now!](https://e-potapova.itch.io/little-trouble) 
  *Might need to zoom out in the browser and then make the game full-screen to see all UI elements.
-<br/>[See more info and source code.](https://github.com/E-Potapova/GameOff2021)
 <br/>![](little_trouble.gif)
 
 #### I Can't Believe It's Not Breakout [:top:](#hi-im-liz)
