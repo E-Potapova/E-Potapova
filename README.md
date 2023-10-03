@@ -30,22 +30,44 @@ This is a small platformer video game me and a partner created in Unity (in C#).
 A small game in Unity that furthered my knowledge on scenes, object spawning, and event management.
 <br/> The blocks spawn with a chance of providing an effect: giving +1 ball to the player (orange), freezing the paddle (blue), or speeding up all balls x2 (yellow).
 <br/> (This is a very original game not at all related to *Breakout* by Atari.)
-<img src="breakout.gif" alt="GIF of gameplay of an Atari Breakout clone" width="70%"/>
+<img src="breakout.gif" alt="GIF of gameplay of an Atari Breakout clone"/>
 
 ### Definitely Not Asteroids [:top:](#hi-im-liz)
 The very first game I made in Unity, the game is not pretty but taught me a lot of important things.
 <br/> Oh, and it's *not* at all similar to *Asteroids* by Atari, I have no idea what you're talking about ... 
-<img src="asteroids.gif" alt="GIF of gameplay of an Atari Asteroids clone" width="70%"/>
+<img src="asteroids.gif" alt="GIF of gameplay of an Atari Asteroids clone"/>
 
 ## Programming Projects
-### Procedurally-Generated Landscapes in OpenGL
+### Procedurally-Generated Landscapes in OpenGL [:top:](#hi-im-liz)
 Capstone project for my Computer Graphics course made with one other teammate. We generate a 2D Perlin noise map and display it on-screen for the user to see. The user can modify the density of the map and generate a new one entirely.
 
-From the noise map we construct a rough 'landscape' by dividing the 2D map into squares, from which we draw a rectangular prism with the height corresponding to the color value of the noise. White means taller, black means shorter. The user has options for voxel cubes instead of rectangular prisms, which pixel is used to determine the height (upper-left, center, or average), and color schemes.. we added Minecraft for fun. :)
-
+From the noise map we construct a rough 'landscape' by dividing the 2D map into squares, from which we draw a rectangular prism with the height corresponding to the color value of the noise. White means taller, black means shorter. The user has options for voxel cubes instead of rectangular prisms, which pixel is used to determine the height (upper-left, center, or average), and color schemes.. we added Minecraft for fun. :) [See source code.](OpenGL%20Project/)
+<br/><img src="computer-graphics.gif" alt="GIF of the OpenGL project running, showcasing all options"/>
 
 ### Cache Simulator
-.. 
+Made for my Computer Architecture III course, this project simulates six different types of cache organization systems and tests them with varying parameters on large traces of memory instructions.
+ - Direct-mapped
+    - Cache line: 32 bytes, cache sizes tested: 1KB, 4KB, 16KB, 32KB
+ - Set-associative
+    - Cache line: 32 bytes, cache size: 16KB
+    - Associativity tested: 2, 4, 8, 16, least-recently-used replacement
+ - Fully-associative
+    - Cache line: 32 bytes, cache size: 16KB
+    - Least-recently-used (LRU) replacement policy & hot-cold LRU approximation
+ - Set-associative, no allocation on write miss
+    - Cache line: 32 bytes, cache size: 16KB
+    - Associativity tested: 2, 4, 8, 16, least-recently-used replacement
+    - If a store instruction misses, the missing line is written directly into memory instead of cache
+ - Set-associative with next-line prefetching
+    - Cache line: 32 bytes, cache size: 16KB
+    - Associativity tested: 2, 4, 8, 16, least-recently-used replacement
+    - For any cache access, bring next line into cache as well
+ - Set-associative with next-line prefetching only on cache miss
+    - Cache line: 32 bytes, cache size: 16KB
+    - Associativity tested: 2, 4, 8, 16, least-recently-used replacement
+    - When accessing the cache and missing, bring next line into cache as well
+
+Source code available for view upon request.
 
 ## Applications
 ### Rock Climbing Site [:top:](#hi-im-liz)
@@ -61,4 +83,4 @@ I was quite disappointed to not find *any* resources at my university regarding 
 I had my first event, which was an talk on what's needed to start making games. I will also be running a series of workshops for learning Unity and creating a game from scratch! Most excitedly, we are trying to organize Binghamton University's first-ever game jam in November!
 
 More cool things to come!
-<br/><img src="GDG-logo-full-text.svg" alt="Game Development Group Logo" width="30%"/>
+<br/><img src="GDG-logo-full-text.svg" alt="Game Development Group Logo" width="40%"/>
