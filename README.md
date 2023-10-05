@@ -1,5 +1,5 @@
 # Hi, I'm Liz!
-I’m senior at Binghamton University pursuing a double-degree in Computer Science and Mathematics. Here are some cool things I've done!
+I’m a senior at Binghamton University pursuing a double-degree in Computer Science and Mathematics. Here are some cool things I've done!
 
 [Video Games](#video-games) <br/>
 [Programming Projects](#programming-projects) <br/>
@@ -59,12 +59,8 @@ Made for my Computer Architecture III course, this project simulates six differe
     - Associativity tested: 2, 4, 8, 16, least-recently-used replacement
     - If a store instruction misses, the missing line is written directly into memory instead of cache
  - Set-associative with next-line prefetching
-    - Cache line: 32 bytes, cache size: 16KB
-    - Associativity tested: 2, 4, 8, 16, least-recently-used replacement
     - For any cache access, bring next line into cache as well
  - Set-associative with next-line prefetching only on cache miss
-    - Cache line: 32 bytes, cache size: 16KB
-    - Associativity tested: 2, 4, 8, 16, least-recently-used replacement
     - When accessing the cache and missing, bring next line into cache as well
 
 Source code available for view upon request.
