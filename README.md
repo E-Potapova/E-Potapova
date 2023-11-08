@@ -1,5 +1,5 @@
 # Hi, I'm Liz!
-I’m a senior at Binghamton University pursuing a double-degree in Computer Science and Mathematics. Here are some cool things I've done!
+I’m a senior at Binghamton University studying Computer Science. Here are some cool things I've done!
 
 [Video Games](#video-games) <br/>
 [Programming Projects](#programming-projects) <br/>
