@@ -52,8 +52,10 @@ Techniques I used:
  - Layering together two separate noise maps (elevation and moisture) to choose biomes
  - Using 3 octaves for both noise maps, offsetting the noise values being fetched so that they are independent
  - 1st octave gets tapered out at edges using the square bump distance function
-<br/><img src="map-gen.gif" alt="GIF of a showcase of various top-down pixel art maps that loop"/>
-<img src="map-biomes.png" alt="PNG of a spreadsheet indicating which combination of the elevation and moisture values correlates to which biome"/>
+<p align="middle">
+    <img src="map-gen.gif" alt="GIF of a showcase of various top-down pixel art maps that loop"/>
+    <img src="map-biomes.png" width="50%" alt="PNG of a spreadsheet indicating which combination of the elevation and moisture values correlates to which biome"/>
+</p>
 
 ### Procedurally-Generated Landscapes in OpenGL [:top:](#hi-im-liz)
 Capstone project for my Computer Graphics course made with one other teammate. We generate a 2D Perlin noise map and display it on-screen for the user to see. The user can modify the density of the map and generate a new one entirely.
