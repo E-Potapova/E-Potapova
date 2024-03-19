@@ -1,10 +1,17 @@
 # Hi, I'm Liz!
 I’m a senior at Binghamton University studying Computer Science. Here are some cool things I've done!
-
-[Video Games](#video-games) <br/>
-[Programming Projects](#programming-projects) <br/>
-[Applications](#applications) <br/>
-[Game Development Group](#game-development-group) </br>
+- [Video Games](#video-games) <br/>
+    - Curious Cats (2D point-and-click) <br/>
+    - Little Trouble (2D platformer) <br/>
+    - I Can't Believe It's Not Breakout <br/>
+    - Definitely Not Asteroids <br/>
+- [Programming Projects](#programming-projects) <br/>
+    - Map with Biome Generation using Perlin Noise in PICO-8 <br/>
+    - Procedurally-Generated Landscapes in OpenGL <br/>
+    - Cache Simulator <br/>
+- [Applications](#applications) <br/>
+    - Rock Climbing Site <br/>
+- [Game Development Group](#game-development-group) </br>
 
 ## Video Games
 ![logo](https://img.itch.zone/aW1nLzEwNjY2OTI1LnBuZw==/original/%2FT6l5K.png)
@@ -38,6 +45,16 @@ The very first game I made in Unity, the game is not pretty but taught me a lot 
 <img src="asteroids.gif" alt="GIF of gameplay of an Atari Asteroids clone"/>
 
 ## Programming Projects
+### Map with Biome Generation using Perlin Noise in PICO-8 [:top:](#hi-im-liz)
+Playing around with map generation and layering noise maps for smooth biomes. Created in the PICO-8 engine, which uses Lua; each pixel in the displayed gif would correlate to a chunk of the map that can be scaled up to any size. 
+
+Techniques I used:
+ - Layering together two separate noise maps (elevation and moisture) to choose biomes
+ - Using 3 octaves for both noise maps, offsetting the noise values being fetched so that they are independent
+ - 1st octave gets tapered out at edges using the square bump distance function
+<br/><img src="map-gen.gif" alt="GIF of a showcase of various top-down pixel art maps that loop"/>
+<img src="map-biomes.png" alt="PNG of a spreadsheet indicating which combination of the elevation and moisture values correlates to which biome"/>
+
 ### Procedurally-Generated Landscapes in OpenGL [:top:](#hi-im-liz)
 Capstone project for my Computer Graphics course made with one other teammate. We generate a 2D Perlin noise map and display it on-screen for the user to see. The user can modify the density of the map and generate a new one entirely.
 
@@ -76,7 +93,6 @@ For my 2022 summer internship, me and 2 other interns had to develop a simple ap
 ## Game Development Group 
 I was quite disappointed to not find *any* resources at my university regarding game development—so I took things into my own hands and founded a new club dedicated for creating games!
 
-I had my first event, which was an talk on what's needed to start making games. I will also be running a series of workshops for learning Unity and creating a game from scratch! Most excitedly, we are trying to organize Binghamton University's first-ever game jam in November!
+Fall 2023 had a series of beginner Unity workshops, a talk on how to get started making games, and a 48-hour game jam hosted on campus, all created and organized by me! Spring 2024 has a proper team hosting 2 workshops weekly for a variety of game engines and tools (Unity, PICO-8, GameMaker, Blender, Twine, etc.) and another 48-hour game jam in April!
 
-More cool things to come!
 <br/><img src="GDG-logo-full-text.svg" alt="Game Development Group Logo" width="40%"/>
