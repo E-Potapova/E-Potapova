@@ -1,5 +1,5 @@
 # Hi, I'm Liz!
-I’m a senior at Binghamton University studying Computer Science. Here are some cool things I've done!
+I’m a recent graduate from Binghamton University studying Computer Science. Here are some cool things I've done!
 - [Video Games](#video-games) <br/>
     - Curious Cats (2D point-and-click) <br/>
     - Little Trouble (2D platformer) <br/>
