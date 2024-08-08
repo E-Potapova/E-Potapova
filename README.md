@@ -1,8 +1,8 @@
 # Hi, I'm Liz!
 I’m a recent graduate from Binghamton University studying Computer Science. Here are some cool things I've done!
 - [Video Games](#video-games) <br/>
-    - Wow! What a Beautiful Dog You Have! LITE <br/> (tower defense for mobile)
-    - Jump Monarch <br/> (endless scroller for mobile)
+    - Wow! What a Beautiful Dog You Have! LITE (tower defense for mobile) <br/>
+    - Jump Monarch (endless scroller for mobile) <br/>
     - Curious Cats (2D point-and-click) <br/>
     - Little Trouble (2D platformer) <br/>
 - [Programming Projects](#programming-projects) <br/>
