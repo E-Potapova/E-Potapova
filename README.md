@@ -15,6 +15,17 @@ I’m a recent graduate from Binghamton University studying Computer Science. He
 
 ## Video Games
 
+### Learning Unreal Engine
+<i>Skills: Unreal Engine 5.4, C++, Blueprints </i>
+
+I have recently been learning how to make games in Unreal Engine 5.4 in my free time, and so I have been working on a small game consisting of one boss fight.
+
+For this project, I've made it my goal to learn about using a State Tree for the boss AI, and tying together animations with gameplay seamlessly. I also want to learn the best way of combining C++ and Blueprints!
+
+<center> <img src="UnrealProject.gif" alt="GIF of Unreal Engine gameplay showcasing a girl wizard player character casting spells at a large alien creature attacking her" width="80%"/> </center>
+
+<br/>
+<br/>
 <img src="WWABDYHL_logo.png" alt="Text in the style of a logo that says WOW! what a Beautiful DOG you have! LITE" width="40%"/>
 
 ### Wow! What a Beautiful Dog You Have! LITE
@@ -147,6 +158,7 @@ I personally worked a lot on the 'Climber requests a Guide' aspect, as well as m
 
 ## Game Development Group 
 <i>Aug 2023 - May 2024 <br/>
+Role: Founder & President <br/>
 Skills: Leadership, Organization, Self-Motivation </i>
 
 I was quite disappointed to not find *any* resources at my university regarding game development—so I took things into my own hands and founded a new club dedicated for creating games!
